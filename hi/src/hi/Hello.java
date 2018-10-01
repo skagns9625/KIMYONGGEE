@@ -8,7 +8,7 @@ public class Hello {
 	   
 	  Scanner scanner = new Scanner(System.in);
       System.out.println("2015041083 김용기");
-      System.out.print("첫번째 원의 중심과 반지름 입력 >>> ");
+      System.out.print("첫번째 원의 중심과 반지름 입력 >> ");
       int a1 = scanner.nextInt();
       int b1= scanner.nextInt();
       int c1= scanner.nextInt();
